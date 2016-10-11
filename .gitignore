@@ -10,7 +10,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
-
+nbproject/*
 
 ### Qt ###
 # C++ objects and libs
