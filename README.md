@@ -1,4 +1,4 @@
-# GTUVirtulOS
+# GTUVirtualOS
 
 You must make some adjustments to work on this project
 
@@ -18,7 +18,7 @@ sudo apt-get install qt5-default
 
 ********************************************************************************
 
-Netbeans doesn't open .iu files on the Linux.
+Netbeans doesn't open .ui files on the Linux.
 So For Open .ui files:
 Open Qt Creater --> File --> Open File or Project -> select .ui file
 
